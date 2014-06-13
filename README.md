@@ -3,9 +3,9 @@ C言語によるpython拡張チュートリアル
 
 cython
 ------
-[ctyhon](cythonexample/README.md)
+[ctyhon](cythonexample/)
 
 cyteps
 -----
-[ctypes](ctypesexample/README.md)
+[ctypes](ctypesexample/)
 
