@@ -12,7 +12,7 @@ from distutils.core import setup
 from distutils.extension import Extension
 from Cython.Distutils import build_ext
 
-hello_modules = [Extension("hellocython", ["hellocython.pyx"])]
+hello_modules = [Extension("hello", ["hello.pyx"])]
 
 setup(
     name = 'Hello cython module',
