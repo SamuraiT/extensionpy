@@ -13,4 +13,4 @@ hello cython
 
 参考
 ----
-[cython document](http://omake.accense.com/static/doc-ja/cython/src/userguide/tutorial.htoc)
+[cython document](http://omake.accense.com/static/doc-ja/cython/src/userguide/tutorial.html)
