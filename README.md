@@ -3,9 +3,13 @@ C言語によるpython拡張チュートリアル
 
 cython
 ------
-[ctyhon](cythonexample/)
+[Click here](cythonexample/)
 
-cyteps
+c types example
 -----
-[ctypes](ctypesexample/)
+[Click here](ctypesexample/)
+
+c extension example
+------------
+[Click here](cextexexample/)
 
